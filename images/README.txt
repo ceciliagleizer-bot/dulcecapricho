@@ -1,1 +1,0 @@
-Coloca aquí tus imágenes (logo.png, local.jpg, etc.)
